@@ -1,1 +1,2 @@
 Poprawione w celu rozwiazania konfliktu
+Dodatkowa linijka z galezi testowej
