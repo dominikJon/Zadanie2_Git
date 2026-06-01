@@ -1,1 +1,1 @@
-Zmiana wprowadzona w pierwszym katalogu
+Poprawione w celu rozwiazania konfliktu
